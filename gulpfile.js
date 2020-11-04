@@ -20,6 +20,7 @@ var gulp         = require('gulp'), // Подключаем Gulp
 
 const jsFiles = [ 
     //js файлы
+    'app/js/webp.js',
 ]
 
 const cssFiles = [
